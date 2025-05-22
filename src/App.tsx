@@ -13,12 +13,12 @@ function App() {
 
         <div className="image-section">
           <div className="image-left">
-            <img src="/image1.png" alt="Left Top" /> {/* Ganti di sini */}
-            <img src="/image2.png" alt="Left Bottom" /> {/* Ganti di sini */}
+            <img src="/image1.png" alt="Left Top" /> {}
+            <img src="/image2.png" alt="Left Bottom" /> {}
           </div>
           <div className="image-right">
-            <img src="/image3.png" alt="Right Top" /> {/* Ganti di sini */}
-            <img src="/image4.png" alt="Right Bottom" /> {/* Ganti di sini */}
+            <img src="/image3.png" alt="Right Top" /> {}
+            <img src="/image4.png" alt="Right Bottom" /> {}
           </div>
         </div>
 
