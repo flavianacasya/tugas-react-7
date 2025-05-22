@@ -1,11 +1,10 @@
-/* Reset dasar */
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Body dan container utama */
 body, html {
   height: 100%;
   width: 100%;
@@ -27,8 +26,6 @@ body, html {
   text-align: center;
   position: relative;
 }
-
-/* Logo di pojok kiri atas */
 .header {
   position: absolute;
   top: 2rem;
@@ -64,7 +61,6 @@ body, html {
   color: #b44444;
 }
 
-/* Gambar kiri dan kanan */
 .image-section {
   display: flex;
   justify-content: center;
@@ -96,7 +92,6 @@ body, html {
   transform: scale(1.05);
 }
 
-/* Tombol Kamera */
 .camera-button {
   background-color: #ff4c4c;
   color: white;
